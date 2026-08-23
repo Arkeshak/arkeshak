@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Arkeshkar</h1>
-<h3 align="center">Undergraduate</h3>
+<h3 align="center">SOFTWARE ENGINEER</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=arkeshak">
